@@ -1,7 +1,4 @@
-# Nette Bootstrap
-
-[Nette] Bootstrap and Test-Case for [PHPUnit] by [Petr Knap].
-
+# Nette Bootstrap and Test-Case for PHPUnit
 
 ## Container
 
